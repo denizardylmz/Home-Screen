@@ -18,6 +18,8 @@ export default function Home() {
             Get started by editing <code>src/app/page.js</code>.
           </li>
           <li>Save and see your changes instantly.</li>
+
+          <li>Hello World!</li>
         </ol>
 
         <div className={styles.ctas}>
